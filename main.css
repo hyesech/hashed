@@ -1,0 +1,18 @@
+* {
+    /* padding, width 사이즈가 width, height에 포함될 수 있도록 */
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+ul {
+    padding: 0;
+}
+
+li {
+    list-style: none;
+}
